@@ -707,3 +707,12 @@
 
 
 <img width="1919" height="1054" alt="Screenshot 2025-10-20 225129" src="https://github.com/user-attachments/assets/59359dd2-0fab-41c8-bf5b-c3feffda8b87" />
+
+# Pertanyaan dan Tugas 
+**1. Buat script untuk melakukan validasi pada isian form.**
+
+**Jawaban**
+
+<img width="951" height="947" alt="Screenshot 2025-10-20 232402" src="https://github.com/user-attachments/assets/bae86d6a-5511-4c95-a359-5faf32bbf154" />
+
+
